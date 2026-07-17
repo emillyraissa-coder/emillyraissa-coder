@@ -2,9 +2,7 @@
 ## 🚀 Minha Jornada na Tecnologia
 Bem-vindo(a) ao meu GitHub!
 
-###  Aqui você pode acompanhar a minha evolução na área da tecnologia. Atualmente estou aprendendo HTML e CSS, dando os primeiros passos no desenvolvimento front-end e colocando em prática tudo o que estudo por meio de projetos.
-
-###Este repositório reúne meus exercícios, desafios e aplicações desenvolvidas durante o aprendizado. Meu objetivo é evoluir constantemente, aprimorar minhas habilidades e construir um portfólio que represente meu crescimento como desenvolvedora.
+###  Aqui você pode acompanhar a minha evolução na área da tecnologia. Atualmente estou aprendendo HTML e CSS, dando os primeiros passos no desenvolvimento front-end e colocando em prática tudo o que estudo por meio de projetos.Este repositório reúne meus exercícios, desafios e aplicações desenvolvidas durante o aprendizado. Meu objetivo é evoluir constantemente, aprimorar minhas habilidades e construir um portfólio que represente meu crescimento como desenvolvedora.
 
 <!--
 **emillyraissa-coder/emillyraissa-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
