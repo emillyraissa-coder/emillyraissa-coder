@@ -1,4 +1,6 @@
-## Hi there 👋
+# OI EU SOU A Emilly Raissa
+
+## ACOMPANHE A MINHA JORNADA 
 
 <!--
 **emillyraissa-coder/emillyraissa-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
